@@ -1,0 +1,2 @@
+# Minimal defaults; adjust via 'idf.py menuconfig' as needed
+CONFIG_ESP_CONSOLE_UART_NUM=0
